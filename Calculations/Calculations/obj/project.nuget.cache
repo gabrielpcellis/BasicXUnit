@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8BauVKl7NI4iwn8G8nXpnvhJnqSGzG/24KRxhIfONNK/wrlFbIFmj2h/18Yq4HiBoR66eSkzavYX+/MJoUCgw==",
+  "dgSpecHash": "TpXnbhYTannYJpDxwfFlGYA/BJKeNBKCuMYVRcR9nHXU1qck/QoSUIVQdXN+Wk9jWKq1tucILzLMa7PN6qT22w==",
   "success": true,
-  "projectFilePath": "D:\\XUnitTest\\Calculations\\Calculations\\Calculations.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\Calculations\\Calculations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
   ],

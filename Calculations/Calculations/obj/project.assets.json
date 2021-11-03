@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\XUnitTest\\Calculations\\Calculations\\Calculations.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\Calculations\\Calculations.csproj",
       "projectName": "Calculations",
-      "projectPath": "D:\\XUnitTest\\Calculations\\Calculations\\Calculations.csproj",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\Calculations\\Calculations.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\XUnitTest\\Calculations\\Calculations\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\Calculations\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

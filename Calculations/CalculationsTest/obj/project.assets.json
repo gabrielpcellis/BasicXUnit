@@ -5643,11 +5643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\XUnitTest\\Calculations\\CalculationsTest\\CalculationsTest.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\CalculationsTest\\CalculationsTest.csproj",
       "projectName": "CalculationsTest",
-      "projectPath": "D:\\XUnitTest\\Calculations\\CalculationsTest\\CalculationsTest.csproj",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\CalculationsTest\\CalculationsTest.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\XUnitTest\\Calculations\\CalculationsTest\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\CalculationsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5664,8 +5664,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\XUnitTest\\Calculations\\Calculations\\Calculations.csproj": {
-              "projectPath": "D:\\XUnitTest\\Calculations\\Calculations\\Calculations.csproj"
+            "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\Calculations\\Calculations.csproj": {
+              "projectPath": "C:\\Users\\gabri\\Desktop\\xUnit\\Calculations\\Calculations\\Calculations.csproj"
             }
           }
         }
